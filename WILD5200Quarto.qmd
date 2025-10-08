@@ -44,3 +44,37 @@ finding, you are 95% confident that the prevalence of exposure to EHD in this fa
 \_\_\_\_\_ (\<, =, \>) \_\_\_\_%.
 
 \##[**\<1%**]{.underline}
+
+------------------------------------------------------------------------
+
+## Worksheet 3 
+
+**Definitions:** - **Incidence** = number of **new cases** on a specific day ÷ number of **susceptible animals** at the start of that day.
+
+Unit: *cases per elk per day*
+
+**Prevalence** = number of **existing cases** on a specific day ÷ **total herd size**.
+
+Unit: *proportion of elk*
+
+## a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
+
+06/12/25 : 5 new cases / 51 at risk = 9.8%
+
+06/14/25 : 2 new cases / 44 at risk = 4.5%
+
+06/15/25 0 new cases / 44 at risk = 0%
+
+## b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence
+
+06/13/25 : 12 infected / total herd = 21.4%
+
+06/16/25 : 5 infected / total herd = 8.9%
+
+## c) On which day is the prevalence same as the incidence (except the units)?
+
+on 6/10/25 both prevalence and incidence were the same, based on the same elk. Prevalence was 1/56 and so was incidence.
+
+## d) On which day is the incidence lowest?
+
+On both 06/15/25 and 06/16/25 there are no new cases. Meaning that the incidence in both days is 0.00%. So the answer would have to be 06/15/25 since it is the first day with no new cases.
