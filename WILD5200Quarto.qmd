@@ -27,10 +27,10 @@ This shows the epidemiological triad, which shows the relationship between patho
 ![1) Find the sample size necessary to detect a disease at or above 5% prevalence in a\
 herd of 5000 deer. The desired level of confidence is 95%.](images/clipboard-2552825706.png)
 
-[**##The sample size necessary is 59 individuals**]{.underline}
+[**##The sample size necessary is 59 deer**]{.underline}
 
 2\) Using the hypergeometric distribution, compare the sample size requirements for the\
-following scenarios: \
+following scenarios:\
 a) 95% confidence in detecting a disease at 1% prevalence in a large population
 
 [**##299 samples are needed**]{.underline}\
