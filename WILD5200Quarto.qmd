@@ -83,10 +83,34 @@ On both 06/15/25 and 06/16/25 there are no new cases. Meaning that the incidence
 
 # Exam corrections
 
-## Question 7: 
+## Question 7:
 
 In 2015, 200,000 Saiga antelope died due to an infection caused by the bacteria *Pasteurella multocida.* This bacteria is naturally occurring in the antelopes lungs and is usually considered as harmless to their health. However in 2015, during the Saiga calving season, which traditionally has the hottest months, something changed. The normally harmless bacteria, turned pathogenic, leading to hemorrhagic septicemia. In simple terms, hemorrhagic septicemia, leads to internal bleeding and death within hours to days. Saiga antelope are herd animals, sticking close together for resources and protection from predators. Hemorrhagic septicemia can be spread through bodily fluids as well as contaminated soil and water. So this time, the herd did not protect them from predators, but ended up being more dangerous due to the close quarter contact they always have. This combination of a highly contagious disease, along with thousands of animals being close together, has lead to the 200,000 deaths. A few strategies could be used in order to prevent a similar event. Since this outbreak was partially caused due to the increase in temperature and moisture, i think it is safe to say we need increased weather monitoring in that area to prepare for the next outbreak. This goes hand in hand with basic disease surveillance, which would be necessary to track and monitor the spread of the disease and prevent an outbreak. Habitat management as well as ethical hunting to keep population levels safe should also help maintain a healthy less diseased population. On a broader scale, trying to prevent Saiga from extinction due to disease the same foundations of diseases monitoring and prevention will remain the same. Some big picture ideas could be maintaining multiple herds of Saiga that are genetically distinct from each other, maybe leading to a disease resistant herd but at the bottom line preventing a mass extinction. Policy is going to have to be a big part of that as well, anti poaching laws or more strict hunting laws. I know a lot of people in that area rely on the Saiga as a source of food, so that could be difficult. Lastly I would recommend more climate change research, as this is partially what caused the outbreak. If temperatures keep going up, hemorrhagic septicemia in Saiga Antelope will not be our biggest problem.
 
 ## Question 9:
 
 R~0~ is the average number of new infections caused by one infectious individual in a completely susceptible population. It helps to determine how easily disease can spread. So in scenario 1 you see one red (infected) and one blue (susceptible) flamingo making R~0~ = 1. In scenario two there is one red and three blue, making R~0~ equal 3, since the disease will likely spread to 3 individuals. For scenario 3 R~0~ = 2 and for scenario 4 R~0~ is equal to zero since there are no susceptible people to be infected. In a real world sense, R~0~ is used to predict and manage disease spread. If R~0~ is greater than 1 than the disease is likely to grow unless action is taken. If R~0~ is less than 1 than the opposite can be said, that the disease will most likely die out. R~0~ is a fundamental way of understanding disease spread, and helps to predict disease behavior.
+
+------------------------------------------------------------------------
+
+# Worksheet 4
+
+## 1) MERS-CoV is primarily maintained in human populations?
+
+False, MERS-CoV is primarily maintained in camel populations.
+
+## 2) Camels serve as the main animal reservoir for MERS-CoV?
+
+True
+
+## 3) Humans are dead-end hosts for MERS-CoV?
+
+True, even though there have been reports of human to human transmission, it is very rare making humans considered dead end hosts.
+
+## 4) The estimated case fatality rate for human MERS-CoV infections is approximately 65%?
+
+False, the case fatality rate for human MERS-CoV is 35%
+
+## 5) The epidemic curve indicates this is a point source outbreak?
+
+False, the epidemic curve indicates that this is a repeated outbreak. It frequently repeats itself and does not have one big outbreak point. There are multiple peaks that show multiple outbreaks.
