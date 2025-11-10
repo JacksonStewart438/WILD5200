@@ -134,3 +134,15 @@ So while I would call this a spillover initiated outbreak, I would also be comfo
 This specific strain of Marburg that has broken out in Rwanda has a 23% mortality rate (15/66 have died), meaning community and healthcare prevention is super important. That being said, there is a lot we can do, starting with community management. You have to reduce human to bat contact as that is what has seemed to cause this outbreak in the first place. That goes hand in hand with my next point of public health education. You have to tell the community about the risks, show them the data, and talk about the deaths, they have to know the importance of the outbreak. With such a fatal disease, you have to teach things like safe burial, issoloation, and contact tracing. All of these things are essential in reducing outbreak risks.
 
 In a healthcare setting it is a little easier to implement risk reduction since you are generally surrounded by trained like minded people with a common goal. Healthcare workers will need PPE, including respirators, protective clothing, face mask/ shield, anything that will keep the healthcare workers safe. In this outbreak it states that most of the confirmed cases are in hospital workers, meaning they need some better training. Which leads me to my next point, training. This is obviously not a super common problem in humans, so how many people are actually hazmat trained, or know what to do in a situation like that. The hospital will need to set up isolation wings, keeping all patients in staff in that area only as to not spread through the hospital. It is also the hospitals responsibility to have safe disposal of infected waste so that nothing outside of the hospital will become infected from it. There are endless things that i can think of that a hospital can do in order to prevent or reduce risk of infection. That being said they are all pretty similar with the idea of being smart, being prepared, and stopping the spread of disease.
+
+------------------------------------------------------------------------
+
+# Worksheet 6 
+
+## A new disease, Vertico, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
+
+## For each pond, report the following: • Prevalence (%) • 95% CI (%) • Fisher’s exact test p-value • Interpretation (Is the difference statistically significant?)
+
+## Answer) 
+
+For pond 1 the reported prevalence was 30% with a 95% CI \[14-52.5\]. In pond 2 there was a prevalence of 7% with a 95% CI \[0.3 - 30.2\]. The p-value was reported at 0.1987, meaning the differences are not statistically significant.
