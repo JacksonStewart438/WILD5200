@@ -149,7 +149,7 @@ For pond 1 the reported prevalence was 30% with a 95% CI \[14-52.5\]. In pond 2 
 
 ------------------------------------------------------------------------
 
-# Worksheet 7 
+# Worksheet 7
 
 ## Nipah Virus ) Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting
 
@@ -169,6 +169,24 @@ A pathogen characteristic that allows ARV to thrive in these environments is the
 
 An example of ARV is Tenosynovitis in poultry. It causes lameness, swollen joints, ruptured gastrocnemius tendons, reduced mobilit, ruffled feathers, and reultance to move. It decreases growth rates and feed efficiency, increases culling, causes major economic losses in poultry operations and can lead to secondary infections and high morbidity.
 
-## Langya Henipavirus) Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID? 
+## Langya Henipavirus) Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
 
 The likely reservoir of LayV is the shrew, which is a small rodent much like a mouse. The shrew population studied in China had a 27% prevalence leading us to believe that they are the natural reservoir for the disease. The main route of transmission is believed to be direct contact with wildlife. There have been no significent or studied cases of sustained human to human transmission. Meaning this disease, which is caused from spillover from the shrew population is classified as a spillover and not an emerging infectious disease.
+
+------------------------------------------------------------------------
+
+# Worksheet 8 
+
+Across all 106 raccoons, the total prevalence of Baylisascaris procyonis infection was 47.17%, with a 95% confidence interval of 37.66%–56.67%.
+
+Raccoons in the North region had 28.57% prevalence (95% CI: 15.92–41.22%), while raccoons in the Central region had 64.29% prevalence (95% CI: 39.19–89.39%), and those in the South region had 62.79% prevalence (95% CI: 48.32–77.24%).\
+This shows that Central and South have more than double the prevalence of North, suggesting much higher environmental transmission in those regions.
+
+Across all raccoons, females had 64.86% prevalence (95% CI: 49.48–80.25%), while males had 37.68% prevalence (95% CI: 26.25–49.12%).Females overall have much higher prevalence than males, suggesting stronger or more frequent exposure.
+
+In the North region, females had 38.10% prevalence (95% CI: 17.32–58.87%), while males had 21.43% prevalence (95% CI: 6.23–36.63%).In the Central region, females had 100% prevalence (95% CI: 100–100%), while males had 44.44% prevalence (95% CI: 11.98–76.91%).In the South region, females had 100% prevalence (95% CI: 100–100%), while males had 50.00% prevalence (95% CI: 32.68–67.32%).In Central and South, every female was infected, and males were consistently lower in all regions.
+
+Adults had 52.17% prevalence (95% CI: 40.39–63.96%), while young adults had 37.84% prevalence (95% CI: 22.21–53.47%).Adults showed higher prevalence than young adults overall, consistent with longer exposure over time.Adult females had 100% prevalence (95% CI: 66.12–100.55%), while young adult females had 46.15% prevalence (95% CI: 24.92–69.82%).\
+Adult males had 46.81% prevalence (95% CI: 27.67–54.68%), while young adult males had 23.53% prevalence (95% CI: 7.09–48.47%).This shows that adult females had extremely high infection across all regions, and adult males had roughly double the prevalence of young adult males.
+
+This dataset reveals strong spatial and demographic patterns in Baylisascaris procyonis infection. Central and South regions clearly exhibit higher prevalence than the North, indicating more favorable environmental conditions for egg survival or higher raccoon densities that increase transmission. Females consistently showed higher prevalence than males, and adults had higher infection than young adults, both pointing toward behavioral and exposure-related differences. Adult females were the most heavily infected group overall.
