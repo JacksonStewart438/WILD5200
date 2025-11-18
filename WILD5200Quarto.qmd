@@ -137,12 +137,38 @@ In a healthcare setting it is a little easier to implement risk reduction since 
 
 ------------------------------------------------------------------------
 
-# Worksheet 6 
+# Worksheet 6
 
 ## A new disease, Vertico, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
 
 ## For each pond, report the following: • Prevalence (%) • 95% CI (%) • Fisher’s exact test p-value • Interpretation (Is the difference statistically significant?)
 
-## Answer) 
+## Answer)
 
 For pond 1 the reported prevalence was 30% with a 95% CI \[14-52.5\]. In pond 2 there was a prevalence of 7% with a 95% CI \[0.3 - 30.2\]. The p-value was reported at 0.1987, meaning the differences are not statistically significant.
+
+------------------------------------------------------------------------
+
+# Worksheet 7 
+
+## Nipah Virus ) Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting
+
+In Malaysia the human outbreak of Nipah Virus mostly involved intermediate hosts. Fruit bats were the natural reservoir, and they transmitted the virus to pigs via direct and indirect contact. These infected pigs were then responsible for infecting humans.
+
+In Bangladesh, the dominant mode of spillover was direct bat to human transmission due to consuming date palm sap that had been contaminated with bat urine, saliva, or droppings.
+
+So in Malaysia, the epidemic was driven by pig farmers, compared to in Bangladesh where it was driven by human behavior (eating date palm sap). Prevention in Malaysia would look like increased biosecurity in pig farms, avoiding feeding pigs fruit from areas with high bat populaitons, and isolation of sick animals. In Bangladesh you would need to stop eating the palm sap, or protect the sap from bats maybe in the form of a tree skirt. Education is also important for both communities in order to stop the spread of disease.
+
+## Avian Reovirus) Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.
+
+Avian reovirus is transmitted in several ways. The two major categories are horizontal and vertical. Horizontal transmission would be things like the fecal oral route, so an infected bird excretes virus in droppings, another bird ingests contaminated droppings and becomes infected. Vertical transmission is when a hen passes the infection to a chick while in the egg.
+
+Environmental factors play a huge role in the spread of ARV. Industrial pultry farms often see dense populations of poultry in small spaces which force contact with other poultry. This dense population of birds combined with the often unsanitary living conditions, shared bedding, food, and water, leads to an increase in horizontal transmissions in these environments.
+
+A pathogen characteristic that allows ARV to thrive in these environments is the fact that ARVs are non enveloped. Meaning they can survive in litter, water, on surfaces for extended periods, which aids spread, especially in cool and wet conditions.
+
+An example of ARV is Tenosynovitis in poultry. It causes lameness, swollen joints, ruptured gastrocnemius tendons, reduced mobilit, ruffled feathers, and reultance to move. It decreases growth rates and feed efficiency, increases culling, causes major economic losses in poultry operations and can lead to secondary infections and high morbidity.
+
+## Langya Henipavirus) Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID? 
+
+The likely reservoir of LayV is the shrew, which is a small rodent much like a mouse. The shrew population studied in China had a 27% prevalence leading us to believe that they are the natural reservoir for the disease. The main route of transmission is believed to be direct contact with wildlife. There have been no significent or studied cases of sustained human to human transmission. Meaning this disease, which is caused from spillover from the shrew population is classified as a spillover and not an emerging infectious disease.
