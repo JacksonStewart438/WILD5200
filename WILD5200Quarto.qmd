@@ -5,6 +5,10 @@ format: html
 editor: visual
 ---
 
+# Worksheet 1
+
+## 1) 
+
 ```{r}
 # Function to calculate the area of a circle
 area_of_circle <- function(radius) {
@@ -16,21 +20,25 @@ circle_area <- area_of_circle(radius)
 cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ```
 
+## 2)
+
 ![](images/clipboard-1423874183.png)
 
-This shows the epidemiological triad, which shows the relationship between pathogens their host and the environment. A very powerful symbol in epidemiology, often referenced.
+## 3) 
+
+## This shows the epidemiological triad, which shows the relationship between pathogens their host and the environment. A very powerful symbol in epidemiology, often referenced.
 
 ------------------------------------------------------------------------
 
 # Worksheet 2
 
-![1) Find the sample size necessary to detect a disease at or above 5% prevalence in a\
-herd of 5000 deer. The desired level of confidence is 95%.](images/clipboard-2552825706.png)
+## 1) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
 
 [**##The sample size necessary is 59 deer**]{.underline}
 
-2\) Using the hypergeometric distribution, compare the sample size requirements for the\
-following scenarios:\
+## 2) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
+\
 a) 95% confidence in detecting a disease at 1% prevalence in a large population
 
 [**##299 samples are needed**]{.underline}\
@@ -38,10 +46,7 @@ b) 99% confidence in detecting a disease at 2% prevalence in a large population
 
 [**##229 samples are needed**]{.underline}
 
-3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the\
-300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this\
-finding, you are 95% confident that the prevalence of exposure to EHD in this facility is\
-\_\_\_\_\_ (\<, =, \>) \_\_\_\_%.
+## 3) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\_\_\_ (\<, =, \>) \_\_\_\_%.
 
 \##[**\<1%**]{.underline}
 
@@ -139,9 +144,9 @@ In a healthcare setting it is a little easier to implement risk reduction since 
 
 # Worksheet 6
 
-## A new disease, Vertico, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
+##  1) A new disease, Vertico, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
 
-## For each pond, report the following: • Prevalence (%) • 95% CI (%) • Fisher’s exact test p-value • Interpretation (Is the difference statistically significant?)
+## 2) For each pond, report the following: • Prevalence (%) • 95% CI (%) • Fisher’s exact test p-value • Interpretation (Is the difference statistically significant?)
 
 ## Answer)
 
@@ -151,7 +156,7 @@ For pond 1 the reported prevalence was 30% with a 95% CI \[14-52.5\]. In pond 2 
 
 # Worksheet 7
 
-## Nipah Virus ) Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting
+## 1) Nipah Virus ) Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting
 
 In Malaysia the human outbreak of Nipah Virus mostly involved intermediate hosts. Fruit bats were the natural reservoir, and they transmitted the virus to pigs via direct and indirect contact. These infected pigs were then responsible for infecting humans.
 
@@ -159,7 +164,7 @@ In Bangladesh, the dominant mode of spillover was direct bat to human transmissi
 
 So in Malaysia, the epidemic was driven by pig farmers, compared to in Bangladesh where it was driven by human behavior (eating date palm sap). Prevention in Malaysia would look like increased biosecurity in pig farms, avoiding feeding pigs fruit from areas with high bat populaitons, and isolation of sick animals. In Bangladesh you would need to stop eating the palm sap, or protect the sap from bats maybe in the form of a tree skirt. Education is also important for both communities in order to stop the spread of disease.
 
-## Avian Reovirus) Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.
+## 2) Avian Reovirus) Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.
 
 Avian reovirus is transmitted in several ways. The two major categories are horizontal and vertical. Horizontal transmission would be things like the fecal oral route, so an infected bird excretes virus in droppings, another bird ingests contaminated droppings and becomes infected. Vertical transmission is when a hen passes the infection to a chick while in the egg.
 
@@ -169,13 +174,13 @@ A pathogen characteristic that allows ARV to thrive in these environments is the
 
 An example of ARV is Tenosynovitis in poultry. It causes lameness, swollen joints, ruptured gastrocnemius tendons, reduced mobilit, ruffled feathers, and reultance to move. It decreases growth rates and feed efficiency, increases culling, causes major economic losses in poultry operations and can lead to secondary infections and high morbidity.
 
-## Langya Henipavirus) Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
+## 3) Langya Henipavirus) Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
 
 The likely reservoir of LayV is the shrew, which is a small rodent much like a mouse. The shrew population studied in China had a 27% prevalence leading us to believe that they are the natural reservoir for the disease. The main route of transmission is believed to be direct contact with wildlife. There have been no significent or studied cases of sustained human to human transmission. Meaning this disease, which is caused from spillover from the shrew population is classified as a spillover and not an emerging infectious disease.
 
 ------------------------------------------------------------------------
 
-# Worksheet 8 
+# Worksheet 8
 
 Across all 106 raccoons, the total prevalence of Baylisascaris procyonis infection was 47.17%, with a 95% confidence interval of 37.66%–56.67%.
 
@@ -190,3 +195,46 @@ Adults had 52.17% prevalence (95% CI: 40.39–63.96%), while young adults had 37
 Adult males had 46.81% prevalence (95% CI: 27.67–54.68%), while young adult males had 23.53% prevalence (95% CI: 7.09–48.47%).This shows that adult females had extremely high infection across all regions, and adult males had roughly double the prevalence of young adult males.
 
 This dataset reveals strong spatial and demographic patterns in Baylisascaris procyonis infection. Central and South regions clearly exhibit higher prevalence than the North, indicating more favorable environmental conditions for egg survival or higher raccoon densities that increase transmission. Females consistently showed higher prevalence than males, and adults had higher infection than young adults, both pointing toward behavioral and exposure-related differences. Adult females were the most heavily infected group overall.
+
+------------------------------------------------------------------------
+
+# Worksheet 9 
+
+## 1) In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of Salmonella? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection. 
+
+During the 2024 salmonella outbreak, several specific human behaviours amoung backyard poultry owners directly contributed to zoonotic transmission. Many owners handled their chickens or collected eggs and ate them, drank, or touched their face without washing their hands. Because salmonella commonly contaminates feathers, feet, and fecal material, skipping proper hand hygiene allowed bacteria to move easily from the birds to human mucos membranes. Another behavior that increased risk was allowing poultry to enter homes or shared living spaces. When chicks or adult birds were brought indoors, the birds contaminated carpets, and counters,creating widespread environmental exposure that persisted long after the birds were removed. A third major factor was the tendency for people, especially children, to kiss, cuddle, or hold birds close to their faces. Physical closeness placed contaminated feathers or beaks near the mouth, nose, and eyes, which is one of the most efficient pathways for zoonotic Salmonella infection. Additional practices such as children under 5 handling birds unsupervised or cleaning poultry equipment in kitchen sinks further increased exposure. Together, these behaviors created repeated opportunities for humans to ingest or contact Salmonella, driving the outbreak.
+
+## 2) Tall fescue grass is commonly infected with a fungal endophyte (Epichloë coenophiala) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.
+
+\
+a. What advantage does Tall fescue gain from being infected with a fungal\
+endophyte?
+
+Tall fescue gains ecological advantages from its association with the fungal Ephicole coenophilia. The eondopyte produces aljaloids that protects the plant from insect herbivory and grazing pressure, allowing it to survive and persist longer than non-infected grasses. It also enhances the plant’s tolerance to environmental stressors such as drought, heat, and nutrient-poor soils. These combined benefits allow tall fescue to outcompete neighboring species and maintain dominance in many pasture systems.
+
+\
+b. What environmental and ecological factors drive the occurrence and severity of\
+fescue toxicosis in grazing systems?
+
+The severity of fescue toxicosis in grazing systems is shaped by several environmental and ecological factors. Pasture endophyte infection rates play a major role because higher infection levels correspond with higher concentrations of ergot alkaloids consumed by livestock. Environmental stress also increases alkaloid production; conditions such as heat, drought, or overgrazing push the plant into producing more toxic compounds. Seasonal patterns are important as well as alkaloid concentrations are highest during late spring and summer when Tall fescue is actively growing. Finally, grazing pressure and forage availability influence exposure. When cattle have fewer forage options, they tend to consume more stems and seedheads, the parts of the plant with the greatest alkaloid content, which ultimately worsens clinical disease.
+
+\
+c. What are the key clinical signs of fescue toxicity in cattle?
+
+Cattle experiencing fescue toxicosis typically show reduced weight gain, poor heat tolerance, and decreased milk production. Affected animals often exhibit elevated body temperature, rough hair coats, and general lethargy due to impaired thermoregulation caused by vasoconstriction. In more severe cases, cattle may develop “fescue foot,” which includes reduced blood flow to extremities, lameness, and tissue necrosis. These signs collectively reflect the systemic effects of ergot alkaloids on vascular and endocrine function.
+
+------------------------------------------------------------------------
+
+# Worksheet 10 
+
+## 1) What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF?
+
+African Swine Fever spreads through several routes, including direct contact between infected and healthy pigs, contact with contaminated blood or bodily fluids, and exposure to contaminated equipment, clothing, feed, or vehicles. Humans play a major role in spreading ASF because they move pigs, pork products, and contaminated materials between farms. The virus survives well on boots, tools, trucks, and feed, so poor biosecurity, illegal transport of pork, and not disinfecting equipment are major drivers of human-mediated spread.
+
+## 2) Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas.
+
+Koalas infected with Koala retrovirus (KoRV) experience more severe cases of Chlamydia because KoRV weakens the immune system. This makes koalas less able to control the bacterial infection, leading to faster disease progression, more frequent systemic infections, and higher rates of blindness, infertility, and urinary disease. Co-infection also complicates management because antibiotics work more slowly, relapse is more common, and KoRV-positive animals require more supportive care. Overall, KoRV makes Chlamydia infections harder to treat and more harmful to the population.
+
+## 3. Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging threat to wild snake populations in North America. What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)? 
+
+Surveillance and management of Snake Fungal Disease are difficult for several reasons. Wild snakes are naturally hard to detect and sample, so determining true prevalence is challenging. The disease also presents differently across species and environments, making early detection inconsistent. Environmental reservoirs of the fungus complicate control because snakes can become re-infected from soil or habitat even after treatment. Finally, there are limited treatment options for wild snakes, and applying antifungals at a population scale is not practical. These factors make SFD a complex and ongoing management issue.
